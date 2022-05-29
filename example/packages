@@ -1,6 +1,5 @@
-chrony
 less
 logrotate
-openssh
-ssmtp
 sudo
+btrfs-progs 
+nfs-utils
